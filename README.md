@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ### 💻 Desenvolvedor | Backend & Desenvolvimento Web
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Estudante+de+Sistemas+para+Internet;Desenvolvedor+Backend+em+forma%C3%A7%C3%A3o;Python+%7C+Django+%7C+Java+%7C+Spring+Boot" alt="Typing SVG" />
+<!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Estudante+de+Sistemas+para+Internet;Desenvolvedor+Backend+em+forma%C3%A7%C3%A3o;Python+%7C+Django+%7C+Java+%7C+Spring+Boot" alt="Typing SVG" /> -->
 
 </div>
 

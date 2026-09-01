@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-<a href="www.linkedin.com/in/joão-paulo-azevedo-baía-95747722b">
+<a href="https://www.linkedin.com/in/joão-paulo-azevedo-baía-95747722b">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 

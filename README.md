@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 # Olá, eu sou João Paulo 👋
 
-### 💻 Desenvolvedor em formação | Backend & Desenvolvimento Web
+### 💻 Desenvolvedor | Backend & Desenvolvimento Web
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Estudante+de+Sistemas+para+Internet;Desenvolvedor+Backend+em+forma%C3%A7%C3%A3o;Python+%7C+Django+%7C+Java+%7C+Spring+Boot" alt="Typing SVG" />
 
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 ## 👨‍💻 Sobre mim
 
-🎓 Estudante de **Sistemas para Internet**
+🎓 **Sistemas para Internet**
 
 💻 Interessado em **Desenvolvimento Backend e Desenvolvimento Web**
 
@@ -67,6 +67,6 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-### 💡 "Sempre aprendendo, construindo e evoluindo."
+### 💡 "Mistakes only prove you're trying."
 
 </div>

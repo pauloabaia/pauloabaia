@@ -1,44 +1,32 @@
-
 <!--
 **pauloabaia/pauloabaia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
 <div align="center">
 
-# Olá, eu sou João Paulo 👋
+# Hi, I'm João Paulo 👋
 
-### 💻 Desenvolvedor | Backend & Desenvolvimento Web
+### 💻 Developer | Backend & Web Development
 
-<!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Estudante+de+Sistemas+para+Internet;Desenvolvedor+Backend+em+forma%C3%A7%C3%A3o;Python+%7C+Django+%7C+Java+%7C+Spring+Boot" alt="Typing SVG" /> -->
+<!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Internet+Systems+Student;Backend+Developer+in+Training;Python+%7C+Django+%7C+Java+%7C+Spring+Boot" alt="Typing SVG" /> -->
 
 </div>
 
 ---
 
-## 👨‍💻 Sobre mim
+## 👨‍💻 About Me
 
-🎓 **Sistemas para Internet**
+🎓 **Internet Systems**
 
-💻 Interessado em **Desenvolvimento Backend e Desenvolvimento Web**
+💻 Interested in **Backend and Web Development**
 
-🚀 Atualmente desenvolvendo e aprimorando projetos com diferentes tecnologias
+🚀 Currently developing and improving projects using different technologies
 
-🌱 Sempre buscando aprender mais sobre desenvolvimento de software, arquitetura e boas práticas
+🌱 Always looking to learn more about software development, architecture, and best practices
 
 ---
 
-## 🚀 Tecnologias e Ferramentas
+## 🚀 Technologies & Tools
 
 <div align="center">
 
@@ -48,7 +36,7 @@ Here are some ideas to get you started:
 
 ---
 
-## 📫 Entre em contato
+## 📫 Get in Touch
 
 <div align="center">
 

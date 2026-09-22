@@ -36,22 +36,6 @@
 
 ---
 
-## 📫 Get in Touch
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/joão-paulo-azevedo-baía-95747722b">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:joao.azevedo.baia1@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-</div>
-
----
-
 <div align="center">
 
 ### 💡 "Mistakes only prove you're trying."

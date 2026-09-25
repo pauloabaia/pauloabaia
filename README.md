@@ -38,6 +38,6 @@
 
 <div align="center">
 
-### 💡 "Mistakes only prove you're trying."
+### 💡 "Mistakes only prove you're trying!"
 
 </div>
